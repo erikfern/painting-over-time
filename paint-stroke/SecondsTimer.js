@@ -1,4 +1,4 @@
-//THIS ISN'T FINISHED
+//This code is not used
 
 class SecondsTimer{
 	
@@ -8,7 +8,6 @@ class SecondsTimer{
 		this.timer;
 	}
 
-	//"something" MUST be a function
 	doSomethingOnInterval(something, interval){
 		this.currentSeconds = second();
 
