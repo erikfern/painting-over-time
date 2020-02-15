@@ -1,0 +1,3 @@
+in this folder go to...
+
+paint-stroke > index.html
